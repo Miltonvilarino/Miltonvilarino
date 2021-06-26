@@ -1,5 +1,5 @@
   ## Bem vindo ao meu Profile.</br>
-  Me chamo Milton Vilarino,Tudo bem com você? espero que sim.</br>
+  Me chamo Milton Vilarino, Tudo bem com você? espero que sim.</br>
   Abaixo encontram-se minhas redes sociais para contato e alguns repositórios.</br>
   fique a vontade.</br>
  <div>
