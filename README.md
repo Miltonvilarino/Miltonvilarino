@@ -1,4 +1,20 @@
-  ## Bem vindo ao meu Profile.</br>
+  ## Hii! Eu sou o Milton Vilarino
+ <div>
+  <a href="https://github.com/miltonvilarino">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miltonvilarino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miltonvilarino&layout=compact&langs_count=7&theme=dracula"/>
+ 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Milton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Milton-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Milton-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Milton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Milton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
+  ##
+
+## Bem vindo ao meu Profile.</br>
   Me chamo Milton Vilarino, Tudo bem com você? espero que sim.</br>
   Abaixo encontram-se minhas redes sociais para contato e alguns repositórios.</br>
   fique a vontade.</br>
