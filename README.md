@@ -1,7 +1,7 @@
 ## Bem vindo ao meu Profile.</br>
-  Me chamo Milton Vilarino, Tudo bem com você? espero que sim.</br>
-  Abaixo encontram-se minhas redes sociais para contato e alguns repositórios.</br>
-  fique a vontade.</br>
+  My name is Milton Vilarino, Are you okay? hope so.
+  Below are my social networks to contact and some repositories.
+  feel free.</br>
  <div>
   <a href="https://github.com/Miltonvilarino">
 
